@@ -4,7 +4,7 @@
 
 Make the Snake as long as you can by eating the purple squares that will appear in the screen.
 
-![Snake Game demo](demo/snake_game_gif.gif)
+![](snake_game_gif.gif)
 
 Based on the video by: [The Coding Train](https://www.youtube.com/watch?v=AaGK-fj-BAM&index=3&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
 
