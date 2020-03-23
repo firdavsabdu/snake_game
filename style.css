@@ -1,0 +1,12 @@
+html, body {
+  background: rgb(242,242,242);
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: Lato;
+}
+canvas {
+  display: block;
+  margin: 2% auto;
+  border: 3px solid red;
+}
